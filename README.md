@@ -121,4 +121,4 @@ Welcome to my **Neural Networks Training Repo**! This repository captures everyt
 
 ## 📃 License
 
-This repository follows the MIT License. See the `LICENSE` file for details.
+This repository follows the MIT License. See the [LICENSE](LICENSE) file for details.
